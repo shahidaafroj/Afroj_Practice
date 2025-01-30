@@ -1,0 +1,6 @@
+D:\C_Sharp\Fron_In work\Fron_In work\obj\Debug\Fron_In work.csproj.AssemblyReference.cache
+D:\C_Sharp\Fron_In work\Fron_In work\obj\Debug\Fron_In work.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Fron_In work\Fron_In work\obj\Debug\Fron_In_work.Form1.resources
+D:\C_Sharp\Fron_In work\Fron_In work\obj\Debug\Fron_In_work.Properties.Resources.resources
+D:\C_Sharp\Fron_In work\Fron_In work\obj\Debug\Fron_In work.csproj.GenerateResource.cache
+D:\C_Sharp\Fron_In work\Fron_In work\obj\Debug\Fron_In work.csproj.CoreCompileInputs.cache

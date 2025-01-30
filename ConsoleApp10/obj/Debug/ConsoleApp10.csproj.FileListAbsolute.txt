@@ -1,0 +1,8 @@
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+D:\C_Sharp\Afroj_Practice\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

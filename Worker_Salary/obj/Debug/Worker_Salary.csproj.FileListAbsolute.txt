@@ -1,0 +1,8 @@
+D:\C_Sharp\Afroj_Practice\Worker_Salary\bin\Debug\Worker_Salary.exe.config
+D:\C_Sharp\Afroj_Practice\Worker_Salary\bin\Debug\Worker_Salary.exe
+D:\C_Sharp\Afroj_Practice\Worker_Salary\bin\Debug\Worker_Salary.pdb
+D:\C_Sharp\Afroj_Practice\Worker_Salary\obj\Debug\Worker_Salary.csproj.AssemblyReference.cache
+D:\C_Sharp\Afroj_Practice\Worker_Salary\obj\Debug\Worker_Salary.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Afroj_Practice\Worker_Salary\obj\Debug\Worker_Salary.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Afroj_Practice\Worker_Salary\obj\Debug\Worker_Salary.exe
+D:\C_Sharp\Afroj_Practice\Worker_Salary\obj\Debug\Worker_Salary.pdb

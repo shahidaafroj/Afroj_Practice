@@ -1,0 +1,8 @@
+D:\C_Sharp\Afroj_Practice\Vartual_txt\bin\Debug\Vartual_txt.exe.config
+D:\C_Sharp\Afroj_Practice\Vartual_txt\bin\Debug\Vartual_txt.exe
+D:\C_Sharp\Afroj_Practice\Vartual_txt\bin\Debug\Vartual_txt.pdb
+D:\C_Sharp\Afroj_Practice\Vartual_txt\obj\Debug\Vartual_txt.csproj.AssemblyReference.cache
+D:\C_Sharp\Afroj_Practice\Vartual_txt\obj\Debug\Vartual_txt.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Afroj_Practice\Vartual_txt\obj\Debug\Vartual_txt.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Afroj_Practice\Vartual_txt\obj\Debug\Vartual_txt.exe
+D:\C_Sharp\Afroj_Practice\Vartual_txt\obj\Debug\Vartual_txt.pdb

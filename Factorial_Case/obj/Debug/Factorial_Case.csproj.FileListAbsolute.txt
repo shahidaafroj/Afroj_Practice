@@ -1,0 +1,8 @@
+D:\C_Sharp\Factorial_Case\bin\Debug\Factorial_Case.exe.config
+D:\C_Sharp\Factorial_Case\bin\Debug\Factorial_Case.exe
+D:\C_Sharp\Factorial_Case\bin\Debug\Factorial_Case.pdb
+D:\C_Sharp\Factorial_Case\obj\Debug\Factorial_Case.csproj.AssemblyReference.cache
+D:\C_Sharp\Factorial_Case\obj\Debug\Factorial_Case.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Factorial_Case\obj\Debug\Factorial_Case.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Factorial_Case\obj\Debug\Factorial_Case.exe
+D:\C_Sharp\Factorial_Case\obj\Debug\Factorial_Case.pdb

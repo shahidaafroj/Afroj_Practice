@@ -1,0 +1,8 @@
+D:\C_Sharp\Fibonacci_case\bin\Debug\Fibonacci_case.exe.config
+D:\C_Sharp\Fibonacci_case\bin\Debug\Fibonacci_case.exe
+D:\C_Sharp\Fibonacci_case\bin\Debug\Fibonacci_case.pdb
+D:\C_Sharp\Fibonacci_case\obj\Debug\Fibonacci_case.csproj.AssemblyReference.cache
+D:\C_Sharp\Fibonacci_case\obj\Debug\Fibonacci_case.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Fibonacci_case\obj\Debug\Fibonacci_case.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Fibonacci_case\obj\Debug\Fibonacci_case.exe
+D:\C_Sharp\Fibonacci_case\obj\Debug\Fibonacci_case.pdb

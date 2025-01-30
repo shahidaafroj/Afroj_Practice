@@ -1,0 +1,8 @@
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\bin\Debug\Switch_case.txt.exe.config
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\bin\Debug\Switch_case.txt.exe
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\bin\Debug\Switch_case.txt.pdb
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\obj\Debug\Switch_case.txt.csproj.AssemblyReference.cache
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\obj\Debug\Switch_case.txt.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\obj\Debug\Switch_case.txt.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\obj\Debug\Switch_case.txt.exe
+D:\C_Sharp\Switch_case.txt\Switch_case.txt\obj\Debug\Switch_case.txt.pdb

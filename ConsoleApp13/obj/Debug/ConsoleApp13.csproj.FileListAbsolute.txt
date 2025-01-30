@@ -1,0 +1,8 @@
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\C_Sharp\Afroj_Practice\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

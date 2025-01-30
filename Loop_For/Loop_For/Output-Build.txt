@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Loop_For, Configuration: Debug Any CPU ------
+1>  Loop_For -> D:\C_Sharp\Loop_For\Loop_For\bin\Debug\Loop_For.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,8 @@
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\bin\Debug\Abstract_Class_Method.exe.config
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\bin\Debug\Abstract_Class_Method.exe
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\bin\Debug\Abstract_Class_Method.pdb
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\obj\Debug\Abstract_Class_Method.csproj.AssemblyReference.cache
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\obj\Debug\Abstract_Class_Method.csproj.SuggestedBindingRedirects.cache
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\obj\Debug\Abstract_Class_Method.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\obj\Debug\Abstract_Class_Method.exe
+D:\C_Sharp\Afroj_Practice\Abstract_Class_Method\obj\Debug\Abstract_Class_Method.pdb
